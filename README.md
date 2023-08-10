@@ -1,5 +1,6 @@
 # CV-DL-09-Image2Text_OCR
 
+`PYTHON=3.9.17`
 
 ## INSTRUCTIONS
 
